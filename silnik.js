@@ -27,9 +27,6 @@ const krolik = add([
 pos(100,300)
 ])
 
-add([
-    play("muzyka")
-    ])
 
 var xMinus =1;
 onUpdate(()=>{
